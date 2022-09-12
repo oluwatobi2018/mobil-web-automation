@@ -21,8 +21,3 @@
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
 </projectDescription>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Priva
