@@ -1,2 +1,2 @@
-# mobil-web-automation
+# mobile-web-automation
 Mobile web automation
